@@ -1,0 +1,9 @@
+.TodoRows{
+    width: auto;
+    height: auto;
+    text-align: center;
+    margin:auto;
+    padding: 2px;
+    display: block;
+    float: left;
+}
